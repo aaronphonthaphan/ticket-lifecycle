@@ -25,7 +25,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Visual Walkthrough</h2>
 
 <p>
-<img src="https://i.imgur.com/F9pNEtR.png"/>
+<img src="https://i.imgur.com/PdhTwXt.png"/>
 </p>
 <p>
 First, in the VM go to http://localhost/osTicket/ and open a new ticket.
@@ -33,15 +33,15 @@ First, in the VM go to http://localhost/osTicket/ and open a new ticket.
 <br />
 
 <p>
-<img src="https://i.imgur.com/JRuHkIc.png"/>
+<img src="https://i.imgur.com/8QyO6s7.png"/>
 </p>
 <p>
-Now choose either Ken or Karen, a help topic, create whatever summary and description that you'd like, and then create the ticket.
+Now choose either Ken or Karen, a help topic, create a summary and description that you'd like, and then create the ticket.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/o92b2CF.png"/>
+<img src="https://i.imgur.com/QRDULdx.png"/>
 </p>
 <p>
 Now go to http://localhost/osTicket/scp/login.php in your VMs browser and go to the Agent Panel.
@@ -49,7 +49,7 @@ Now go to http://localhost/osTicket/scp/login.php in your VMs browser and go to 
 <br />
 
 <p>
-<img src="https://i.imgur.com/HWxKoFu.png"/>
+<img src="https://i.imgur.com/VEpg7aF.png"/>
 </p>
 <p>
 Now set the SLA to SEV-B and assign the ticket to an agent or the admin user.
@@ -57,9 +57,9 @@ Now set the SLA to SEV-B and assign the ticket to an agent or the admin user.
 <br />
 
 <p>
-<img src="https://i.imgur.com/pqUE1tr.png"/>
+<img src="https://i.imgur.com/5NAI7IF.png"/>
 </p>
 <p>
-Then respond to the ticket with any response you want and decide if the ticket should remain open or resolved if you implemented a solution and fixed the issue. Then just continue to practice making up/creating tickets and working through them as many times as you want!
+Provide a response towards the ticket with a possible solution.
   
-Congrats, you've made it through all three of my osTicket tutorials/labs! Also, don't forget to clean up your resources in Azure or turn off your VM so you don't incur extra charges.
+
